@@ -1,6 +1,6 @@
 <template>
   <div class="vue-app">
-    <h2>{{msg}} ASDADss</h2>
+    <h2>{{msg}}</h2>
     <div id="dynamic-placeholder">
       <a href="#" @click.prevent="loadAnotherComponent" class="btn btn-secondary">Load dynamic component</a>
     </div>
